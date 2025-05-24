@@ -76,7 +76,7 @@
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;WGCNA筛选基因&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Xrx0UBYODgxt5HRNEsu-24" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;WGCNA筛选基因&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-24" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;收集到20个模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
