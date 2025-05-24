@@ -70,11 +70,17 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Xrx0UBYODgxt5HRNEsu-18" target="0Xrx0UBYODgxt5HRNEsu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DEG鉴定&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;GO富集分析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;TSG分析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;WGCNA筛选基因&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;收集到20个模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-26" value="主成分分析、种群结构分析&lt;div&gt;构建邻接树&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
