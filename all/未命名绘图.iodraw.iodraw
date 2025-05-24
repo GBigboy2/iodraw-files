@@ -16,6 +16,9 @@
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-4" value="基因组特征分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-5" value="变异分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
