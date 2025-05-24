@@ -73,6 +73,9 @@
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DEG鉴定&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;GO富集分析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;TSG分析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="190" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DEG鉴定&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;GO富集分析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;TSG分析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="170" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
