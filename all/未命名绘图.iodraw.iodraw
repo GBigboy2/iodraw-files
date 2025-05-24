@@ -7,6 +7,9 @@
         <mxCell id="0Xrx0UBYODgxt5HRNEsu-1" value="种肉鸡&lt;div&gt;地方鸡&lt;/div&gt;&lt;div&gt;野生祖先&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0Xrx0UBYODgxt5HRNEsu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
