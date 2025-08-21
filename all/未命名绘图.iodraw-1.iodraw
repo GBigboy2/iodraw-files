@@ -10,11 +10,11 @@
         <mxCell id="dFn7NfzX_ZiBej2RD8vQ-1" value="采取东安鸡胫部&lt;div&gt;真皮层与表皮层组织&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=12;fontFamily=Times New Roman;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dFn7NfzX_ZiBej2RD8vQ-2" value="全基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="245" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="RWzDxr34O2epb2co8RYo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dFn7NfzX_ZiBej2RD8vQ-2" target="RWzDxr34O2epb2co8RYo-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFn7NfzX_ZiBej2RD8vQ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="475" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="dFn7NfzX_ZiBej2RD8vQ-2" value="全基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dFn7NfzX_ZiBej2RD8vQ-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;与白来航鸡建立杂交系&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="120" width="160" height="40" as="geometry" />
