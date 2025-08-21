@@ -80,11 +80,16 @@
         <mxCell id="RWzDxr34O2epb2co8RYo-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;探究东安鸡绿色胫遗传机制&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="340" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RWzDxr34O2epb2co8RYo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RWzDxr34O2epb2co8RYo-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RWzDxr34O2epb2co8RYo-22" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;探究东安鸡绿色胫&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;性状形成原因&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWzDxr34O2epb2co8RYo-25" value="&lt;h1 id=&quot;screen-reader-main-title&quot; class=&quot;Head u-font-serif u-h2 u-margin-s-ver&quot; style=&quot;box-sizing: border-box; margin-right: 0px; margin-left: 0px; padding: 0px; --sd-ui-line-height: calc(1em + 10px); word-break: break-word; color: rgb(31, 31, 31); text-align: start; margin-top: 16px !important; margin-bottom: 16px !important; font-weight: normal !important; line-height: 42px !important;&quot;&gt;&lt;span class=&quot;title-text&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;探究东安鸡绿色胫形成与遗传机制&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="50" width="200" height="40" as="geometry" />
+          <mxGeometry x="314" y="410" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
