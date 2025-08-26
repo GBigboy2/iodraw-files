@@ -10,6 +10,9 @@
         <mxCell id="ExpY1P0jCPgbvuNO8we--3" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--4" target="ExpY1P0jCPgbvuNO8we--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--4" value="Clean Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="40" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="380" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--12" value="FASTQ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="413" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--13" value="FASTQ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="80" height="30" as="geometry" />
