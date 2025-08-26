@@ -56,7 +56,7 @@
         <mxCell id="ExpY1P0jCPgbvuNO8we--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;BAM&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="150" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ExpY1P0jCPgbvuNO8we--20" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ExpY1P0jCPgbvuNO8we--20" value="Joint Genotype" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="395" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--21" target="ExpY1P0jCPgbvuNO8we--20">
