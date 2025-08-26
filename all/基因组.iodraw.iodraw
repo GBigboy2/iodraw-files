@@ -57,8 +57,14 @@
         <mxCell id="ExpY1P0jCPgbvuNO8we--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;BAM&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--20" target="ExpY1P0jCPgbvuNO8we--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--20" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="430" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--21" target="ExpY1P0jCPgbvuNO8we--20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--21" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="380" width="93" height="30" as="geometry" />
@@ -70,7 +76,7 @@
           <mxGeometry x="440" y="340" width="34" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;单样本&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="390" width="34" height="30" as="geometry" />
+          <mxGeometry x="310" y="390" width="34" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
