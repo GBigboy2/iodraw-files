@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--3" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--4" target="ExpY1P0jCPgbvuNO8we--8">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +72,9 @@
             <mxPoint x="307" y="380" as="sourcePoint" />
             <mxPoint x="240" y="395" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--40" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
