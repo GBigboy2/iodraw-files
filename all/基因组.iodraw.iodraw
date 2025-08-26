@@ -25,13 +25,14 @@
         <mxCell id="ExpY1P0jCPgbvuNO8we--8" value="排序（sort）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ExpY1P0jCPgbvuNO8we--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="319.9999999999999" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--9" target="ExpY1P0jCPgbvuNO8we--10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--9" value="去重复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--10" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--11" value="FASTQ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="290" width="80" height="30" as="geometry" />
