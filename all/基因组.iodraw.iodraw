@@ -57,12 +57,7 @@
           <mxGeometry x="400" y="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--20" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="395" width="93" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ExpY1P0jCPgbvuNO8we--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="446.5" y="389.9999999999999" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="400" y="410" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--21" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="93" height="30" as="geometry" />
