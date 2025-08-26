@@ -39,6 +39,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ExpY1P0jCPgbvuNO8we--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpY1P0jCPgbvuNO8we--10" target="ExpY1P0jCPgbvuNO8we--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--10" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="400" y="350" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--22" value="变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;多样本&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="34" height="30" as="geometry" />
