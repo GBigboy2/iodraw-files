@@ -4,17 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ExpY1P0jCPgbvuNO8we--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ExpY1P0jCPgbvuNO8we--3" target="ExpY1P0jCPgbvuNO8we--4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--3" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ExpY1P0jCPgbvuNO8we--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ExpY1P0jCPgbvuNO8we--4" target="ExpY1P0jCPgbvuNO8we--8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--4" value="read比对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--6" value="FASTQ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="80" width="80" height="20" as="geometry" />
