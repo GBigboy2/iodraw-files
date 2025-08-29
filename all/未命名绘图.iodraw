@@ -44,13 +44,13 @@
           <mxGeometry x="398.5" y="140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--20" value="Joint Genotype" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="555" width="93" height="30" as="geometry" />
+          <mxGeometry x="520" y="705" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ExpY1P0jCPgbvuNO8we--21" target="ExpY1P0jCPgbvuNO8we--20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--21" value="合并（Mrege）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="500" width="93" height="30" as="geometry" />
+          <mxGeometry x="520" y="650" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ExpY1P0jCPgbvuNO8we--22" value="变异质控和过滤（VQSR）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="600" width="120" height="40" as="geometry" />
