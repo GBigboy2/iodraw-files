@@ -85,10 +85,10 @@
             <mxPoint x="409.66" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="s_TscxM3s0k35c1MCrLm-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504.65999999999997" y="360" as="sourcePoint" />
-            <mxPoint x="504.65999999999997" y="380" as="targetPoint" />
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="409.65999999999997" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_TscxM3s0k35c1MCrLm-23" value="OCRs相关基因分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
