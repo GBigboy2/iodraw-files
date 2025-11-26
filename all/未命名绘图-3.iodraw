@@ -16,10 +16,16 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;靶向 &lt;b&gt;morpholino&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s_TscxM3s0k35c1MCrLm-1">
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_TscxM3s0k35c1MCrLm-1" target="QDYQJ_DZ1zregCeKy16d-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="220" as="sourcePoint" />
             <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="110" as="sourcePoint" />
+            <mxPoint x="38.200000000000045" y="150.58999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
