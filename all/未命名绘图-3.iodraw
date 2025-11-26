@@ -22,13 +22,13 @@
             <mxPoint x="480" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-1" target="s_TscxM3s0k35c1MCrLm-5" edge="1">
+        <mxCell id="s_TscxM3s0k35c1MCrLm-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-1" target="s_TscxM3s0k35c1MCrLm-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="90" as="sourcePoint" />
             <mxPoint x="420" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-1" target="s_TscxM3s0k35c1MCrLm-4" edge="1">
+        <mxCell id="s_TscxM3s0k35c1MCrLm-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-1" target="s_TscxM3s0k35c1MCrLm-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="90" as="sourcePoint" />
             <mxPoint x="515" y="110" as="targetPoint" />
@@ -36,18 +36,6 @@
         </mxCell>
         <mxCell id="s_TscxM3s0k35c1MCrLm-12" value="HIC分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="270" y="160" width="40" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-6" target="s_TscxM3s0k35c1MCrLm-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="140" as="sourcePoint" />
-            <mxPoint x="420" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-5" target="s_TscxM3s0k35c1MCrLm-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="140" as="sourcePoint" />
-            <mxPoint x="420" y="160" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="s_TscxM3s0k35c1MCrLm-25" value="构建胚胎期雪峰乌骨鸡三维基因组结构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="300" y="450" width="220" height="40" as="geometry" />
