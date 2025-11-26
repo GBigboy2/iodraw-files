@@ -48,10 +48,10 @@
           <mxGeometry x="305" y="580" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-39" value="HI-C分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="640" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="640" width="140" height="40" as="geometry" />
+          <mxGeometry x="530" y="640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="110" height="40" as="geometry" />
@@ -123,16 +123,6 @@
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-80" value="解析雪峰乌骨鸡胸肌乌色性状的调控因素" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="240" y="1070" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="505" y="560" as="sourcePoint" />
-            <mxPoint x="410" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="505" y="570" />
-              <mxPoint x="410" y="570" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
