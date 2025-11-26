@@ -59,7 +59,7 @@
           <mxGeometry x="300" y="440" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-2" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-3" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="140" height="40" as="geometry" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-5" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="90" as="sourcePoint" />
+            <mxPoint x="420" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
