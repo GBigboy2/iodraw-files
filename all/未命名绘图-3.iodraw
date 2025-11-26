@@ -37,8 +37,8 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-55" value="探究调控因子对&lt;div&gt;基因的功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="230" y="245" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;候选调控因子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="40" height="140" as="geometry" />
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;解析乌色性状调控因子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
