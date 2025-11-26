@@ -54,7 +54,7 @@
           <mxGeometry x="530" y="640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="700" width="110" height="40" as="geometry" />
+          <mxGeometry x="40" y="700" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-44" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;Compartments&lt;br/&gt;A/B 鉴定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="760" width="110" height="40" as="geometry" />
