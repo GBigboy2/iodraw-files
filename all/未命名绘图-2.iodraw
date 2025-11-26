@@ -125,11 +125,17 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-33" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="275" y="580" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-39" target="m5FVhHHwdl5nUMS9DgZZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-39" value="HI-C分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-43" target="m5FVhHHwdl5nUMS9DgZZ-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="110" height="40" as="geometry" />
