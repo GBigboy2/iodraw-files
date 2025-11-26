@@ -146,6 +146,9 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-44" target="m5FVhHHwdl5nUMS9DgZZ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-44" target="m5FVhHHwdl5nUMS9DgZZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-44" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;Compartments&lt;br/&gt;A/B 鉴定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="760" width="110" height="40" as="geometry" />
         </mxCell>
@@ -153,6 +156,9 @@
           <mxGeometry x="530" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-46" target="m5FVhHHwdl5nUMS9DgZZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-46" target="m5FVhHHwdl5nUMS9DgZZ-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-46" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;H3K27Ac，&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;H3K27me3&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;信号差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -168,7 +174,7 @@
           <mxGeometry x="240" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-63" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;CUT-Tag&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;HI-C&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;联合分析&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="760" width="60" height="150" as="geometry" />
+          <mxGeometry x="425" y="760" width="50" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
