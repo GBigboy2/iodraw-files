@@ -34,7 +34,7 @@
             <mxPoint x="515" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-12" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s_TscxM3s0k35c1MCrLm-12" value="HIC分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s_TscxM3s0k35c1MCrLm-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-4" target="s_TscxM3s0k35c1MCrLm-12" edge="1">
@@ -70,7 +70,7 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-5" value="采取胸肌肌肉组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s_TscxM3s0k35c1MCrLm-12" target="QDYQJ_DZ1zregCeKy16d-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="200" as="sourcePoint" />
             <mxPoint x="430" y="120" as="targetPoint" />
