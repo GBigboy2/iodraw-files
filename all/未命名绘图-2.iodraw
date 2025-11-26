@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="voTti3xwrCdIujw5UsPG">
-    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,59 +14,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-4" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="60" y="150" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-5" target="m5FVhHHwdl5nUMS9DgZZ-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="100" />
-              <mxPoint x="150" y="160" />
+              <mxPoint x="210" y="170" />
+              <mxPoint x="210" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-5" value="10胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="70" height="40" as="geometry" />
+          <mxGeometry x="130" y="150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-6" target="m5FVhHHwdl5nUMS9DgZZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-6" value="13胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="70" height="40" as="geometry" />
+          <mxGeometry x="130" y="210" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-7" target="m5FVhHHwdl5nUMS9DgZZ-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="220" />
-              <mxPoint x="150" y="160" />
+              <mxPoint x="210" y="290" />
+              <mxPoint x="210" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-7" value="17胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="70" height="40" as="geometry" />
+          <mxGeometry x="130" y="270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-8" target="m5FVhHHwdl5nUMS9DgZZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-8" value="CUT-Tag建库测序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="230" y="150" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-9" target="m5FVhHHwdl5nUMS9DgZZ-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-9" target="m5FVhHHwdl5nUMS9DgZZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-9" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="300" y="150" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-10" target="m5FVhHHwdl5nUMS9DgZZ-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m5FVhHHwdl5nUMS9DgZZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.02857142857147" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-10" target="m5FVhHHwdl5nUMS9DgZZ-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m5FVhHHwdl5nUMS9DgZZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-10" target="m5FVhHHwdl5nUMS9DgZZ-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m5FVhHHwdl5nUMS9DgZZ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.02857142857147" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-10" value="HI-C联合分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" width="160" height="40" as="geometry" />
@@ -78,22 +86,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-20" value="蛋白修饰分布情况&lt;div&gt;TAD边界调控因子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="370" y="150" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-21" target="m5FVhHHwdl5nUMS9DgZZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-21" value="增强子与沉默子分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="454" y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="514" y="150" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-22" target="m5FVhHHwdl5nUMS9DgZZ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-22" value="A/B区室信号分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="40" height="160" as="geometry" />
+          <mxGeometry x="440" y="150" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-29" value="初步确定乌色形状的差异调控因子" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="530" y="57.5" width="40" height="205" as="geometry" />
+          <mxGeometry x="590" y="127.5" width="40" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
