@@ -13,11 +13,14 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-5" value="10胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-6" value="10胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-6" value="13胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-7" value="10胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-7" value="17胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-8" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
