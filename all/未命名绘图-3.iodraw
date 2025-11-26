@@ -88,8 +88,8 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-29" value="增强子与启动子结构注释" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-30" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="40" height="140" as="geometry" />
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-30" value="增强子与沉默子分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
