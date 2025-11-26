@@ -28,6 +28,9 @@
             <mxPoint x="170" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-55" value="探究调控因子对&lt;div&gt;基因的功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="230" y="245" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
