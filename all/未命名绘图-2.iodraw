@@ -22,6 +22,12 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-8" value="CUT-Tag建库测序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-9" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
