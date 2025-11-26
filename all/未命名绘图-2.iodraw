@@ -206,8 +206,11 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-69" value="初步确定乌色性状的差异调控因子" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="240" y="950" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-73" value="&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;loop&amp;nbsp;结构识别与比较&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="890" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-74" value="&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;loop&amp;nbsp;结构识别与比较&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
