@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="630" />
-              <mxPoint x="515" y="630" />
+              <mxPoint x="510" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="640" width="125" height="40" as="geometry" />
+          <mxGeometry x="445" y="640" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="700" width="110" height="40" as="geometry" />
