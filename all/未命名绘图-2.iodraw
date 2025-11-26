@@ -26,10 +26,10 @@
           <mxGeometry x="240" y="80" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-10" value="HI-C联合分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="334" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-11" value="HI-C联合分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="10" width="160" height="40" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-11" value="差异peak区域&lt;br&gt;KEGG与GO富集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
