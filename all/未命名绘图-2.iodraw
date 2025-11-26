@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="630" />
-              <mxPoint x="442" y="630" />
+              <mxPoint x="450" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,7 +129,7 @@
           <mxGeometry x="240" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="640" width="105" height="40" as="geometry" />
+          <mxGeometry x="390" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="110" height="40" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="240" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-45" value="HI-C分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="760" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="390" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-46" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;H3K27Ac&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;H3K27me3&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="700" width="120" height="40" as="geometry" />
