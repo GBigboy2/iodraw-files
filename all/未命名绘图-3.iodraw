@@ -82,7 +82,7 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-27" value="转录因子&lt;div&gt;蛋白修饰分布情况&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="394" y="160" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-28" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(0, 145, 26); font-weight: bold;&quot;&gt;鉴的差异调控因子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-28" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#00911a&quot;&gt;&lt;b&gt;三维结构&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDYQJ_DZ1zregCeKy16d-29" target="QDYQJ_DZ1zregCeKy16d-30">
