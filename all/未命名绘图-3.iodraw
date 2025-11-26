@@ -10,8 +10,8 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;双荧光素酶实验&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QDYQJ_DZ1zregCeKy16d-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;验证调控因子不同时间点&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;变化差异&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="40" height="140" as="geometry" />
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;验证调控因子不同时间点&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;变化差异&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;靶向 &lt;b&gt;morpholino&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="40" height="90" as="geometry" />
