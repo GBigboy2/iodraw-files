@@ -95,7 +95,12 @@
           <mxGeometry x="160" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-45" target="m5FVhHHwdl5nUMS9DgZZ-69">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="840" />
+              <mxPoint x="385" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-45" value="&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;调控元件&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: initial;&quot;&gt;KEGG/&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: initial;&quot;&gt;GO&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="760" width="120" height="40" as="geometry" />
@@ -153,8 +158,15 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-80" value="解析雪峰乌骨鸡胸肌乌色性状的调控因素" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="200" y="990" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-44" target="m5FVhHHwdl5nUMS9DgZZ-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="800" as="sourcePoint" />
+            <mxPoint x="384.20000000000005" y="869.3200000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="840" />
+              <mxPoint x="384" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
