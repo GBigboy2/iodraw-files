@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="640" width="140" height="40" as="geometry" />
+          <mxGeometry x="445" y="640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-43" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="700" width="110" height="40" as="geometry" />
@@ -103,10 +103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-45" value="&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;调控元件&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: initial;&quot;&gt;KEGG/&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: initial;&quot;&gt;GO&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="455" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-46" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;H3K27Ac，&lt;/span&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;H3K27me3&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;信号差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="455" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-48" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;拓扑关联域和拓扑边界的鉴定&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="295" y="700" width="110" height="40" as="geometry" />
