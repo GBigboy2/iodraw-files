@@ -25,6 +25,12 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;靶向 &lt;b&gt;morpholino&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=north;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="239.66" as="sourcePoint" />
+            <mxPoint x="290" y="239.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
