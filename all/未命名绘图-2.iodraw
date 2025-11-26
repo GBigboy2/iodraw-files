@@ -82,8 +82,13 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-39" value="HI-C分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="640" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-40" target="m5FVhHHwdl5nUMS9DgZZ-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-40" target="m5FVhHHwdl5nUMS9DgZZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="690" />
+              <mxPoint x="540" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-40" value="CUT-Tag分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="140" height="40" as="geometry" />
