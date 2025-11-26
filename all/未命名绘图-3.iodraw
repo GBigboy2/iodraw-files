@@ -34,14 +34,8 @@
             <mxPoint x="515" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-12" value="HIC分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="150" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s_TscxM3s0k35c1MCrLm-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-4" target="s_TscxM3s0k35c1MCrLm-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="90" as="sourcePoint" />
-            <mxPoint x="325" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="s_TscxM3s0k35c1MCrLm-12" value="HIC分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="270" y="160" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="s_TscxM3s0k35c1MCrLm-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_TscxM3s0k35c1MCrLm-6" target="s_TscxM3s0k35c1MCrLm-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +53,7 @@
           <mxGeometry x="300" y="450" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-2" value="染色体内互作分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="210" width="140" height="40" as="geometry" />
+          <mxGeometry x="510" y="160" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-3" value="A/B&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;Compartments&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="140" height="40" as="geometry" />
