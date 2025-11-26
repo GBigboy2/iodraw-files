@@ -187,7 +187,7 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-63" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;CUT-Tag&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;HI-C&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;联合分析&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="760" width="50" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-69" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-69" value="初步确定乌色性状的差异调控因子" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="240" y="950" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
