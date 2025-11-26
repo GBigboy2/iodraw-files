@@ -184,6 +184,9 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-50" value="&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;loop&amp;nbsp;结构识别与比较&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="880" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-63" target="m5FVhHHwdl5nUMS9DgZZ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-63" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;CUT-Tag&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;HI-C&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;联合分析&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="760" width="50" height="160" as="geometry" />
         </mxCell>
