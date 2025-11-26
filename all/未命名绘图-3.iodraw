@@ -47,10 +47,10 @@
           <mxGeometry x="390" y="160" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-4" value="loop&lt;div&gt;分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="540" y="160" width="40" height="140" as="geometry" />
+          <mxGeometry x="510" y="160" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-5" value="TAD&lt;div&gt;分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="40" height="140" as="geometry" />
+          <mxGeometry x="450" y="160" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
