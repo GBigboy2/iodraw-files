@@ -92,8 +92,8 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-22" value="A/B区室信号分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-29" value="增强子与沉默子分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="464" y="90" width="40" height="160" as="geometry" />
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-29" value="初步确定乌色形状的差异调控因子" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="539" y="50" width="40" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
