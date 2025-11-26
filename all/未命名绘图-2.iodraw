@@ -16,6 +16,14 @@
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-4" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m5FVhHHwdl5nUMS9DgZZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FVhHHwdl5nUMS9DgZZ-5" target="m5FVhHHwdl5nUMS9DgZZ-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="560" />
+              <mxPoint x="375" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m5FVhHHwdl5nUMS9DgZZ-5" value="10胚龄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="70" height="40" as="geometry" />
         </mxCell>
