@@ -76,14 +76,17 @@
         <mxCell id="QDYQJ_DZ1zregCeKy16d-24" value="差异peak区域&lt;div&gt;KEGG与GO富集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.5" y="80" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QDYQJ_DZ1zregCeKy16d-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDYQJ_DZ1zregCeKy16d-27" target="QDYQJ_DZ1zregCeKy16d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-27" value="转录因子&lt;div&gt;蛋白修饰分布情况&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="40" height="140" as="geometry" />
+          <mxGeometry x="394" y="160" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-28" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-29" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="550" y="75" width="40" height="140" as="geometry" />
+          <mxGeometry x="460" y="160" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QDYQJ_DZ1zregCeKy16d-30" value="差异峰分析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="590" y="130" width="40" height="140" as="geometry" />
