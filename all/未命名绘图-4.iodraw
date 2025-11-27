@@ -119,6 +119,9 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-72" value="初步确定乌色性状的差异调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="40" height="195" as="geometry" />
         </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-73" value="联合分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="60" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
