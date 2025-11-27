@@ -107,7 +107,7 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-64" value="染色体内互作" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-65" value="增强子信号差异蜂分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-65" value="调控元件信号差异蜂分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="340" y="355" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-66" value="KEGG/GO&lt;div&gt;富集分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
