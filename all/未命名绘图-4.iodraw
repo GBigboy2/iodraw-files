@@ -19,7 +19,7 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-48" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-49" value="13胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-49" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-50" value="HI-C&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
