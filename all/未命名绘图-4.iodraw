@@ -36,10 +36,18 @@
           <mxGeometry x="140" y="270" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-44" target="COVqCdv9dsPiO3-qE9qc-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="385" />
+              <mxPoint x="190" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-44" value="17胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="355" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-48" target="COVqCdv9dsPiO3-qE9qc-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-48" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="40" height="160" as="geometry" />
