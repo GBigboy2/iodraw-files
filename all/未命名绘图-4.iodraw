@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textDirection=vertical-lr;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-8" target="COVqCdv9dsPiO3-qE9qc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textDirection=vertical-lr;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-10" target="COVqCdv9dsPiO3-qE9qc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;textDirection=vertical-lr;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-6" target="COVqCdv9dsPiO3-qE9qc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;不同胚龄雪峰乌骨鸡胚胎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;direction=west;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="40" height="390" as="geometry" />
         </mxCell>
