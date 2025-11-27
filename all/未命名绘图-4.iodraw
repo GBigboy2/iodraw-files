@@ -71,10 +71,10 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-50" value="HI-C&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="185" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-61" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-61" value="loop结构识别与比较" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="245" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-62" value="A/B区室鉴定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-62" value="A/B区室鉴定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="340" y="245" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-63" value="拓扑关联域和拓扑边界鉴定" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
