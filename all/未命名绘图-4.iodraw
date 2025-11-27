@@ -7,9 +7,6 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-38" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="60" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_3;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="225" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
