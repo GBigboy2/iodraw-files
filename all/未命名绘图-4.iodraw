@@ -128,7 +128,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-72" target="COVqCdv9dsPiO3-qE9qc-74">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="298" />
+              <mxPoint x="540" y="418" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-72" value="初步确定乌色性状的差异调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="40" height="195" as="geometry" />
@@ -140,7 +145,7 @@
           <mxGeometry x="560" y="370" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-75" value="A/B区室鉴定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="560" y="252.5" width="40" height="95" as="geometry" />
+          <mxGeometry x="560" y="250" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-76" value="A/B区室鉴定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="40" height="95" as="geometry" />
