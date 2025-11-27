@@ -68,6 +68,17 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-49" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="40" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-50" target="COVqCdv9dsPiO3-qE9qc-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="232" />
+              <mxPoint x="330" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-50" target="COVqCdv9dsPiO3-qE9qc-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-50" value="HI-C&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="185" width="40" height="95" as="geometry" />
         </mxCell>
