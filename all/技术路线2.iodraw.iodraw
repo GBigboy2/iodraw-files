@@ -29,8 +29,14 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-74" value="双荧光素酶实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="40" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="mjTnUbpktbiB7jo60wMp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-75" target="mjTnUbpktbiB7jo60wMp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-75" value="CRISPR-Cas9&lt;div&gt;敲除&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="40" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="mjTnUbpktbiB7jo60wMp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-76" target="mjTnUbpktbiB7jo60wMp-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-76" value="Morpholinos&lt;div&gt;靶向沉默&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="40" height="95" as="geometry" />
