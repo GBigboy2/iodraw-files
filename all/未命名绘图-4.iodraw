@@ -7,6 +7,15 @@
         <mxCell id="qEFh-9Oq5AO3cH2oJ3ZW-1" value="候选调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="40" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="qEFh-9Oq5AO3cH2oJ3ZW-2" value="候选调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qEFh-9Oq5AO3cH2oJ3ZW-3" value="候选调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qEFh-9Oq5AO3cH2oJ3ZW-4" value="候选调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="40" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
