@@ -116,6 +116,14 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="20" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-72" target="COVqCdv9dsPiO3-qE9qc-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="298" />
+              <mxPoint x="540" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-72" value="初步确定乌色性状的差异调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="40" height="195" as="geometry" />
         </mxCell>
