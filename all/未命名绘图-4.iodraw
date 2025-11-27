@@ -77,7 +77,7 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-62" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="245" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-63" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-63" value="拓扑关联域和拓扑边界鉴定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="140" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-64" value="染色体内互作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
