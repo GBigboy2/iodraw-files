@@ -144,25 +144,17 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-74" value="双荧光素酶实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-75" target="COVqCdv9dsPiO3-qE9qc-81">
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-75" target="COVqCdv9dsPiO3-qE9qc-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-75" value="CRISPR-Cas9&lt;div&gt;敲除&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="COVqCdv9dsPiO3-qE9qc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-76" target="COVqCdv9dsPiO3-qE9qc-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="188" />
-              <mxPoint x="610" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-76" value="Morpholinos&lt;div&gt;靶向沉默&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-81" value="解析雪峰乌骨鸡胸肌乌色性状调控因素" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="630" y="160" width="40" height="280" as="geometry" />
+          <mxGeometry x="630" y="157.5" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
