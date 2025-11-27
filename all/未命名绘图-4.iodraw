@@ -16,6 +16,14 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-38" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="60" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="COVqCdv9dsPiO3-qE9qc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="COVqCdv9dsPiO3-qE9qc-42" target="COVqCdv9dsPiO3-qE9qc-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="215" />
+              <mxPoint x="190" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-42" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="185" width="40" height="60" as="geometry" />
         </mxCell>
@@ -26,13 +34,13 @@
           <mxGeometry x="140" y="355" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-48" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="40" height="160" as="geometry" />
+          <mxGeometry x="210" y="220" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-49" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="320" width="40" height="95" as="geometry" />
+          <mxGeometry x="280" y="320" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="COVqCdv9dsPiO3-qE9qc-50" value="HI-C&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="185" width="40" height="95" as="geometry" />
+          <mxGeometry x="280" y="185" width="40" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
