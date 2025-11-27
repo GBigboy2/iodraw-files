@@ -38,7 +38,7 @@
         <mxCell id="COVqCdv9dsPiO3-qE9qc-81" value="解析雪峰乌骨鸡胸肌乌色性状调控因素" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="167.5" width="40" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="mjTnUbpktbiB7jo60wMp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mjTnUbpktbiB7jo60wMp-2" value="验证调控因子不同时间点变化差异" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="390" width="106" height="57.5" as="geometry" />
         </mxCell>
       </root>
