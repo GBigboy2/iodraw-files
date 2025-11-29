@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="200" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-2" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="200" width="60" height="40" as="geometry" />
+          <mxGeometry x="230" y="180" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-3" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="40" height="120" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="330" y="190" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-5" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="60" height="40" as="geometry" />
+          <mxGeometry x="230" y="230" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-6" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="220" width="60" height="40" as="geometry" />
+          <mxGeometry x="230" y="280" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
