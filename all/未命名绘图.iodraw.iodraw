@@ -8,7 +8,18 @@
           <mxGeometry x="280" y="160" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="309.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="220" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
