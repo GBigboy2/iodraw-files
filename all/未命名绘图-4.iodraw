@@ -27,7 +27,7 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-21" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="305" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-23">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="420" as="targetPoint" />
           </mxGeometry>
