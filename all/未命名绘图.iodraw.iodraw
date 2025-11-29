@@ -27,13 +27,23 @@
           <mxGeometry x="280" y="160" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-2" target="rB-Wa4G4cEQ5gYFbiE-f-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="180" />
+              <mxPoint x="420" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-2" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-3" target="rB-Wa4G4cEQ5gYFbiE-f-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="300" />
+              <mxPoint x="420" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-3" value="17胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="280" width="70" height="40" as="geometry" />
@@ -46,11 +56,20 @@
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-4" value="13胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="220" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-6" target="rB-Wa4G4cEQ5gYFbiE-f-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-6" value="不同胚龄雪峰乌骨鸡胚胎胸肌" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-7" target="rB-Wa4G4cEQ5gYFbiE-f-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-7" value="不同胚龄雪峰乌骨鸡胚胎胸肌" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-8" target="rB-Wa4G4cEQ5gYFbiE-f-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-8" value="不同胚龄雪峰乌骨鸡胚胎胸肌" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="40" height="160" as="geometry" />
