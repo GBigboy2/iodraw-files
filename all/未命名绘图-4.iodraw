@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-21">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-23">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-25">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-19" target="Ds3a5KEDMGl_smFY0Rcl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-19" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="60" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-21" target="Ds3a5KEDMGl_smFY0Rcl-28">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-21" target="Ds3a5KEDMGl_smFY0Rcl-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="335" />
@@ -35,7 +35,7 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-23" value="13胚龄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="390" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-25" target="Ds3a5KEDMGl_smFY0Rcl-28">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-25" target="Ds3a5KEDMGl_smFY0Rcl-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="505" />
@@ -65,7 +65,7 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-28" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-30" target="Ds3a5KEDMGl_smFY0Rcl-38">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-30" target="Ds3a5KEDMGl_smFY0Rcl-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="488" />
@@ -76,7 +76,7 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-30" value="CUT-Tag&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="830" y="440" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-33" target="Ds3a5KEDMGl_smFY0Rcl-37">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-33" target="Ds3a5KEDMGl_smFY0Rcl-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="352" />
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-33" target="Ds3a5KEDMGl_smFY0Rcl-35">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-33" target="Ds3a5KEDMGl_smFY0Rcl-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="352" />
@@ -171,9 +171,6 @@
         </mxCell>
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-52" value="解析雪峰乌骨鸡胸肌乌色性状调控因素" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1180" y="277.5" width="40" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="884" y="250" width="115" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
