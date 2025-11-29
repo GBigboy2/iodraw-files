@@ -1,0 +1,65 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="W1027G7ggVTCSHUh4RtW">
+    <mxGraphModel dx="1050" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-4" target="Ds3a5KEDMGl_smFY0Rcl-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="308" />
+              <mxPoint x="320" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-4" target="Ds3a5KEDMGl_smFY0Rcl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-4" target="Ds3a5KEDMGl_smFY0Rcl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="308" />
+              <mxPoint x="320" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-4" value="候选调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="40" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-6" target="Ds3a5KEDMGl_smFY0Rcl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-6" value="双荧光素酶实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="40" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-8" target="Ds3a5KEDMGl_smFY0Rcl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-8" value="CRISPR-Cas9&lt;div&gt;敲除&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="40" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-10" target="Ds3a5KEDMGl_smFY0Rcl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-10" value="Morpholinos&lt;div&gt;靶向沉默&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="40" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-11" value="解析乌色性状调控因子" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-13" target="Ds3a5KEDMGl_smFY0Rcl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-13" value="验证调控因子不同时间点变化差异" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="388.75" width="106" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-15" target="Ds3a5KEDMGl_smFY0Rcl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-15" value="探究调控因子对基因的功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="106" height="57.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
