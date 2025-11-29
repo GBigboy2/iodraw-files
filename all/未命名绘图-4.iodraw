@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-28" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-28" value="采取胸肌肌肉组织" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds3a5KEDMGl_smFY0Rcl-30" target="Ds3a5KEDMGl_smFY0Rcl-38">
