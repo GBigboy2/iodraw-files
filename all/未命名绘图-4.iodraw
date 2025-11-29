@@ -172,8 +172,8 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-52" value="解析雪峰乌骨鸡胸肌乌色性状调控因素" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1180" y="277.5" width="40" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
