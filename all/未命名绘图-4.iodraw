@@ -92,8 +92,8 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-24" value="Hi-C联合分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6KTKwmnwDERYU13URJO-28" value="Hi-C联合分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
+        <mxCell id="_6KTKwmnwDERYU13URJO-28" value="差异Peak区域&lt;div&gt;KEGG/GO分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
