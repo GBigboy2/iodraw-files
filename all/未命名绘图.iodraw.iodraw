@@ -74,8 +74,14 @@
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-8" value="染色体内互作分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-9" target="rB-Wa4G4cEQ5gYFbiE-f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-9" value="TAD识别与比较" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB-Wa4G4cEQ5gYFbiE-f-19" target="rB-Wa4G4cEQ5gYFbiE-f-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rB-Wa4G4cEQ5gYFbiE-f-19" value="loop分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="40" height="160" as="geometry" />
