@@ -80,6 +80,12 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-24" target="_6KTKwmnwDERYU13URJO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-24" target="_6KTKwmnwDERYU13URJO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-24" target="_6KTKwmnwDERYU13URJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-24" value="Hi-C联合分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
         </mxCell>
