@@ -50,10 +50,8 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-6" value="17胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6KTKwmnwDERYU13URJO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_6KTKwmnwDERYU13URJO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-7" target="_6KTKwmnwDERYU13URJO-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-7" value="差异峰分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="40" height="160" as="geometry" />
@@ -64,8 +62,14 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-8" value="蛋白修饰分布情况&lt;div&gt;TAD边界调控因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-9" target="_6KTKwmnwDERYU13URJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-9" value="A/B&lt;span style=&quot;background-color: initial;&quot;&gt;区室信号分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-10" target="_6KTKwmnwDERYU13URJO-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-10" value="增强子与沉默子分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="40" height="160" as="geometry" />
