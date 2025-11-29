@@ -25,8 +25,8 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-8" value="蛋白修饰分布情况&lt;div&gt;TAD边界调控因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_6KTKwmnwDERYU13URJO-9" value="不同胚龄雪峰乌骨鸡胚胎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="_6KTKwmnwDERYU13URJO-9" value="A/B&lt;div&gt;区室信号分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
