@@ -17,10 +17,18 @@
           <mxGeometry x="160" y="160" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-2" target="_6KTKwmnwDERYU13URJO-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="180" />
+              <mxPoint x="300" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-2" value="10胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-3" target="_6KTKwmnwDERYU13URJO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-3" value="CUT-Tag建库测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="40" height="160" as="geometry" />
@@ -41,6 +49,11 @@
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-6" value="17胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-7" value="差异峰分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="40" height="160" as="geometry" />
