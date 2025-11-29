@@ -28,6 +28,12 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-9" value="A/B&lt;span style=&quot;background-color: initial;&quot;&gt;区室信号分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-10" value="增强子与沉默子分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-11" value="增强子与沉默子分析" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="40" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
