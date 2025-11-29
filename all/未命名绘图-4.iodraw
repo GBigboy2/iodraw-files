@@ -107,7 +107,7 @@
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-37" value="染色体内互作" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="890" y="260" width="40" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-38" value="调控元件信号差异蜂分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="Ds3a5KEDMGl_smFY0Rcl-38" value="调控元件信号&lt;div&gt;差异峰分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="890" y="475" width="40" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Ds3a5KEDMGl_smFY0Rcl-39" value="KEGG/GO&lt;div&gt;富集分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;textDirection=vertical-rl;" vertex="1" parent="1">
