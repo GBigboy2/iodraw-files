@@ -25,8 +25,19 @@
         <mxCell id="_6KTKwmnwDERYU13URJO-3" value="CUT-Tag建库测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="40" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-5" target="_6KTKwmnwDERYU13URJO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-5" value="13胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6KTKwmnwDERYU13URJO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6KTKwmnwDERYU13URJO-6" target="_6KTKwmnwDERYU13URJO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="300" />
+              <mxPoint x="300" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6KTKwmnwDERYU13URJO-6" value="17胚龄" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="60" height="40" as="geometry" />
