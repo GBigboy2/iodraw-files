@@ -56,7 +56,7 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-17" value="生化指标分析&lt;div&gt;肝脏形态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-18" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-18" value="A/B区室&lt;div&gt;TAD差异&lt;/div&gt;&lt;div&gt;Loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-19" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
