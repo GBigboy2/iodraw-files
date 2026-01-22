@@ -53,6 +53,12 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="480" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-17" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-18" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
