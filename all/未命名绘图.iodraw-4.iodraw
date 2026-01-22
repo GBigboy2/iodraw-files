@@ -13,6 +13,11 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-1" value="海兰褐蛋鸡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-2" value="Con组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="80" height="40" as="geometry" />
         </mxCell>
