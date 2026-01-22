@@ -38,49 +38,49 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-4" target="rLF5OuBiDnpj8Ju5Cmbf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-4" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-4" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-5" target="rLF5OuBiDnpj8Ju5Cmbf-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-5" value="Hi-C测序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-5" value="Hi-C测序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-6" target="rLF5OuBiDnpj8Ju5Cmbf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-6" value="CUT-Tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-6" value="CUT-Tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-7" target="rLF5OuBiDnpj8Ju5Cmbf-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-7" value="RNA-seq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-7" value="RNA-seq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-8" target="rLF5OuBiDnpj8Ju5Cmbf-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-8" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-8" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="480" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-17" value="生化指标分析&lt;div&gt;肝脏形态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-17" value="生化指标分析&lt;div&gt;肝脏形态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-18" value="A/B区室&lt;div&gt;TAD差异&lt;/div&gt;&lt;div&gt;Loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-18" value="A/B区室&lt;div&gt;TAD差异&lt;/div&gt;&lt;div&gt;Loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-19" value="H3K27ac&lt;div&gt;信号富集分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-19" value="H3K27ac&lt;div&gt;信号富集分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-20" value="差异基因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-20" value="差异基因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-21" value="基因定量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5CCFF;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-21" value="基因定量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-27" target="rLF5OuBiDnpj8Ju5Cmbf-29">
