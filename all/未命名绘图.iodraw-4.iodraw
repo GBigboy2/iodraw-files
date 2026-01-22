@@ -50,7 +50,7 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-8" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
