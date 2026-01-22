@@ -35,14 +35,26 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-3" value="DXM/FLS组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-4" target="rLF5OuBiDnpj8Ju5Cmbf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-4" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-5" target="rLF5OuBiDnpj8Ju5Cmbf-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-5" value="Hi-C测序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-6" target="rLF5OuBiDnpj8Ju5Cmbf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-6" value="CUT-Tag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-7" target="rLF5OuBiDnpj8Ju5Cmbf-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-7" value="RNA-seq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
@@ -70,6 +82,9 @@
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-21" value="基因定量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="480" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
