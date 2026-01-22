@@ -87,9 +87,9 @@
           <mxGeometry x="160" y="370" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-28" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="420" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-29" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-29" value="三维染色质结构变化与H3K27ac差异峰与差异基因的联合分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
