@@ -47,6 +47,9 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-7" value="RNA-seq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-8" target="rLF5OuBiDnpj8Ju5Cmbf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-8" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-20" value="差异基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-21" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-21" value="基因定量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
