@@ -13,7 +13,7 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-1" value="海兰褐蛋鸡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-2">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-2" target="rLF5OuBiDnpj8Ju5Cmbf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="200" as="targetPoint" />
             <Array as="points">
@@ -24,7 +24,7 @@
         <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-2" value="Con组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-3">
+        <mxCell id="rLF5OuBiDnpj8Ju5Cmbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLF5OuBiDnpj8Ju5Cmbf-3" target="rLF5OuBiDnpj8Ju5Cmbf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="200" as="targetPoint" />
             <Array as="points">
