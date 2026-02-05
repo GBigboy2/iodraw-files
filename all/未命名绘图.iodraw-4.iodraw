@@ -39,24 +39,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-9" value="表型鉴定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-13" target="qaGJ4O6I1A8Fn29I0bYC-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-13" value="CUT-Tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-15" target="qaGJ4O6I1A8Fn29I0bYC-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-15" value="RNA-seq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519.9999999999998" y="280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-17" target="qaGJ4O6I1A8Fn29I0bYC-23">
           <mxGeometry relative="1" as="geometry" />
