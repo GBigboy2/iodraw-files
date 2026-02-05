@@ -53,10 +53,10 @@
           <mxGeometry x="240" y="220" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-19" value="胫部皮肤&lt;div&gt;Lab值测定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="80" height="50" as="geometry" />
+          <mxGeometry x="120" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-20" value="A/B区室&lt;div&gt;TAD差异&lt;/div&gt;&lt;div&gt;Loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="80" height="50" as="geometry" />
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-20" value="黑色素含量&lt;div&gt;黑色素比例&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-22" value="差异基因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="80" height="50" as="geometry" />
