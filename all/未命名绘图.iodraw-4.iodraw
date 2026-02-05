@@ -35,13 +35,14 @@
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-7" value="绿胫" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF280;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-9" target="qaGJ4O6I1A8Fn29I0bYC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-9" target="qaGJ4O6I1A8Fn29I0bYC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-9" value="表型鉴定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="519.9999999999998" y="280" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-17" target="qaGJ4O6I1A8Fn29I0bYC-23">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +60,7 @@
           <mxGeometry x="260" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-22" value="差异基因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="80" height="50" as="geometry" />
+          <mxGeometry x="440" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-23" value="基因定量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="80" height="50" as="geometry" />
