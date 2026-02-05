@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-17" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="240" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="400" height="20" as="geometry" />
