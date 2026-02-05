@@ -82,8 +82,8 @@
             <mxPoint x="400" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-31" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); white-space-collapse: preserve; background-color: initial;&quot;&gt;鉴定调控形成绿色胫的相关基因与SNP&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#1A1A1A;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="520" width="360" height="50" as="geometry" />
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-31" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); white-space-collapse: preserve; background-color: initial;&quot;&gt;鉴定形成绿色胫的相关基因与SNP&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#1A1A1A;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
