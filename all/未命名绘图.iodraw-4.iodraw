@@ -13,9 +13,9 @@
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-3" value="探究东安鸡绿色胫形成机制及调控因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-5">
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-5" target="qaGJ4O6I1A8Fn29I0bYC-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="220" as="targetPoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="180" />
             </Array>
@@ -24,9 +24,9 @@
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-5" value="黄胫" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF280;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-7">
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-7" target="qaGJ4O6I1A8Fn29I0bYC-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="220" as="targetPoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="180" />
             </Array>
@@ -39,18 +39,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-9" value="表型鉴定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-11" target="qaGJ4O6I1A8Fn29I0bYC-20">
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-13" target="qaGJ4O6I1A8Fn29I0bYC-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-11" value="Hi-C测序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qaGJ4O6I1A8Fn29I0bYC-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-13" value="CUT-Tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qaGJ4O6I1A8Fn29I0bYC-15" target="qaGJ4O6I1A8Fn29I0bYC-22">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-17" value="RT-PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qaGJ4O6I1A8Fn29I0bYC-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qaGJ4O6I1A8Fn29I0bYC-19" value="生化指标分析&lt;div&gt;肝脏形态分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9EDFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="80" height="50" as="geometry" />
