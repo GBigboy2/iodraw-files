@@ -35,7 +35,7 @@
           <mxGeometry x="315" y="185" width="215" height="95" as="geometry" />
         </mxCell>
         <mxCell id="S2" value="深度重测序&lt;br&gt;平均约 18.05×" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="315" y="330" width="215" height="70" as="geometry" />
+          <mxGeometry x="315" y="320" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S3" value="多环境表型鉴定&lt;br&gt;2019–2021 年&lt;br&gt;10 个环境，31 个性状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="315" y="430" width="215" height="95" as="geometry" />
