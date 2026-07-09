@@ -41,7 +41,7 @@
           <mxGeometry x="315" y="430" width="215" height="95" as="geometry" />
         </mxCell>
         <mxCell id="G1" value="基因组组装与纠错&lt;br&gt;NextDenovo / NextPolish&lt;br&gt;ALLHiC / Juicebox" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="575" y="170" width="215" height="100" as="geometry" />
+          <mxGeometry x="575" y="182.5" width="215" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G2" value="质量评估与基因注释&lt;br&gt;BUSCO / Merqury&lt;br&gt;重复序列与功能注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="575" y="295" width="215" height="100" as="geometry" />
