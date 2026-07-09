@@ -177,6 +177,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="footer" value="材料与方法核心流程图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1160" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
