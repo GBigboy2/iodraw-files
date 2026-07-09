@@ -41,7 +41,7 @@
           <mxGeometry x="393" y="355" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="pop3" value="3. 多环境表型鉴定&lt;br&gt;2019—2021 年，&lt;br&gt;10 个环境，31 个性状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="475" width="274" height="125" as="geometry" />
+          <mxGeometry x="393" y="495" width="274" height="135" as="geometry" />
         </mxCell>
         <mxCell id="pop4" value="4. 变异检测&lt;br&gt;BWA/GATK 进行 SNP 检测&lt;br&gt;vg / LUMPY 进行 SV 检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="393" y="640" width="274" height="110" as="geometry" />
