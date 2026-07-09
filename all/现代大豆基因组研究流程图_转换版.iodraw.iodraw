@@ -29,25 +29,25 @@
           <mxGeometry x="38" y="775" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="panel_pop" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=1;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="380" y="136.5" width="300" height="745" as="geometry" />
+          <mxGeometry x="380" y="145" width="300" height="745" as="geometry" />
         </mxCell>
         <mxCell id="pop_header" value="群体重测序与表型鉴定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;fontSize=23;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="380" y="136.5" width="300" height="75" as="geometry" />
+          <mxGeometry x="380" y="145" width="300" height="75" as="geometry" />
         </mxCell>
         <mxCell id="pop1" value="1. 547 份大豆材料采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="236.5" width="274" height="88" as="geometry" />
+          <mxGeometry x="393" y="245" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="pop2" value="2. 深度重测序&lt;br&gt;（平均约 18.05×）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="346.5" width="274" height="88" as="geometry" />
+          <mxGeometry x="393" y="355" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="pop3" value="3. 多环境表型鉴定&lt;br&gt;2019—2021 年，&lt;br&gt;10 个环境，31 个性状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="466.5" width="274" height="125" as="geometry" />
+          <mxGeometry x="393" y="475" width="274" height="125" as="geometry" />
         </mxCell>
         <mxCell id="pop4" value="4. 变异检测&lt;br&gt;BWA/GATK 进行 SNP 检测&lt;br&gt;vg / LUMPY 进行 SV 检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="616.5" width="274" height="125" as="geometry" />
+          <mxGeometry x="393" y="625" width="274" height="125" as="geometry" />
         </mxCell>
         <mxCell id="pop5" value="5. 群体结构、BLUP&lt;br&gt;与性状统计分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="771.5" width="274" height="88" as="geometry" />
+          <mxGeometry x="393" y="780" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="final" value="解析结构变异对&lt;br&gt;大豆产量、品质与&lt;br&gt;适应性性状的&lt;br&gt;调控作用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;strokeColor=#C55A11;strokeWidth=2;fontSize=21;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="1320" y="414" width="155" height="190" as="geometry" />
