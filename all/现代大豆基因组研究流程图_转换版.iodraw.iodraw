@@ -74,7 +74,7 @@
           <mxGeometry x="1123" y="555" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="final" value="解析结构变异对&lt;br&gt;大豆产量、品质与&lt;br&gt;适应性性状的&lt;br&gt;调控作用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;strokeColor=#C55A11;strokeWidth=2;fontSize=21;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="433" width="155" height="190" as="geometry" />
+          <mxGeometry x="1310" y="435" width="155" height="190" as="geometry" />
         </mxCell>
         <mxCell id="arrow_ref_to_pop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ref3" target="pop3" edge="1">
           <mxGeometry relative="1" as="geometry" />
