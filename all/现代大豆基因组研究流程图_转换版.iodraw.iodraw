@@ -49,8 +49,8 @@
         <mxCell id="pop5" value="5. 群体结构、BLUP&lt;br&gt;与性状统计分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="393" y="780" width="274" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="final" value="解析结构变异对大豆产量&lt;div&gt;品质及适应性性状的调控作用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;strokeColor=#C55A11;strokeWidth=2;fontSize=21;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="455" width="155" height="190" as="geometry" />
+        <mxCell id="final" value="解析结构变异对大豆产量&lt;span style=&quot;background-color: initial;&quot;&gt;品质及适应性性状的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;调控作用&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;strokeColor=#C55A11;strokeWidth=2;fontSize=21;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="455" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="arrow_ref_to_pop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ref3" target="pop3" edge="1">
           <mxGeometry relative="1" as="geometry">
