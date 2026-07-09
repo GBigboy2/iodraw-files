@@ -1,0 +1,103 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="材料与方法核心流程图" id="soybean_horizontal_workflow">
+    <mxGraphModel dx="446" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1491" pageHeight="1055" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="现代大豆品种 NDD2 高质量基因组与 547 份材料重测序解析结构变异作用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#000000;strokeWidth=2;fontSize=30;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="50" y="25" width="1390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_ref" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=1;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="25" y="145" width="300" height="745" as="geometry" />
+        </mxCell>
+        <mxCell id="ref_header" value="参考基因组构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;fontSize=23;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="25" y="145" width="300" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ref1" value="1. NDD2 材料采集与&lt;br&gt;DNA/RNA 提取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="38" y="245" width="274" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ref2" value="2. 多平台测序：&lt;br&gt;PacBio、Nanopore、&lt;br&gt;Illumina、Hi-C、Bionano" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="38" y="355" width="274" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="ref3" value="3. 基因组组装与纠错&lt;br&gt;NextDenovo / NextPolish /&lt;br&gt;ALLHiC / Juicebox" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="38" y="495" width="274" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="ref4" value="4. 基因组质量评估与基因注释&lt;br&gt;BUSCO、Merqury、重复序列&lt;br&gt;与功能注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="38" y="635" width="274" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="ref5" value="5. 构建图泛基因组&lt;br&gt;NDD2 + 29 个已发表大豆基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="38" y="775" width="274" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_pop" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=1;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="380" y="145" width="300" height="745" as="geometry" />
+        </mxCell>
+        <mxCell id="pop_header" value="群体重测序与表型鉴定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;fontSize=23;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="380" y="145" width="300" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pop1" value="1. 547 份大豆材料采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="393" y="245" width="274" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="pop2" value="2. 深度重测序&lt;br&gt;（平均约 18.05×）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="393" y="355" width="274" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="pop3" value="3. 多环境表型鉴定&lt;br&gt;2019—2021 年，&lt;br&gt;10 个环境，31 个性状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="393" y="475" width="274" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="pop4" value="4. 变异检测&lt;br&gt;BWA/GATK 进行 SNP 检测&lt;br&gt;vg / LUMPY 进行 SV 检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="393" y="625" width="274" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="pop5" value="5. 群体结构、BLUP&lt;br&gt;与性状统计分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="393" y="780" width="274" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ana1" value="结构变异分型与&lt;br&gt;数据整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#548235;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="265" width="185" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ana2" value="SV-GWAS /&lt;br&gt;SNP-GWAS 分析&lt;br&gt;（GEMMA）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#548235;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="440" width="185" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="ana3" value="筛选显著关联 SV&lt;br&gt;与候选基因/调控区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#548235;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="730" y="650" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_val" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=1;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="965" y="335" width="295" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="valA" value="A. PCR 与 Sanger&lt;br&gt;测序验证 SV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="978" y="380" width="135" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="valB" value="B. qRT-PCR 分析&lt;br&gt;候选基因表达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="1123" y="380" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="valC" value="C. 毛状根 / 拟南芥&lt;br&gt;过表达验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="978" y="555" width="135" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="valD" value="D. CRISPR-Cas9&lt;br&gt;功能验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=14;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="1123" y="555" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="final" value="解析结构变异对&lt;br&gt;大豆产量、品质与&lt;br&gt;适应性性状的&lt;br&gt;调控作用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;strokeColor=#C55A11;strokeWidth=2;fontSize=21;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="445" width="155" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="footer" value="材料与方法核心流程图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=0;fontSize=18;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="620" y="970" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_ref_to_pop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ref3" target="pop3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_pop_to_ana" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="pop3" target="ana2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_ana_to_val" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ana2" target="panel_val" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_val_to_final" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="panel_val" target="final" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ana1_to_ana2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ana1" target="ana2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ana2_to_ana3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ana2" target="ana3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
