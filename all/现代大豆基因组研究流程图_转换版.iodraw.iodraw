@@ -75,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1fG3wr9A1JdDJxBS4-uZ-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="970" y="314" width="295" height="390" as="geometry" />
+          <mxGeometry x="990" y="322.5" width="295" height="390" as="geometry" />
         </mxCell>
         <mxCell id="panel_val" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=1;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;spacing=8;" parent="1fG3wr9A1JdDJxBS4-uZ-1" vertex="1">
           <mxGeometry width="295" height="390" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="158" y="220" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="1fG3wr9A1JdDJxBS4-uZ-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="290" width="185" height="505" as="geometry" />
+          <mxGeometry x="760" y="310" width="185" height="505" as="geometry" />
         </mxCell>
         <mxCell id="ana1" value="结构变异分型与&lt;br&gt;数据整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#548235;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1fG3wr9A1JdDJxBS4-uZ-2" vertex="1">
           <mxGeometry width="185" height="108" as="geometry" />
