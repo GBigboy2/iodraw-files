@@ -41,7 +41,7 @@
           <mxGeometry x="393" y="355" width="274" height="88" as="geometry" />
         </mxCell>
         <mxCell id="pop3" value="3. 多环境表型鉴定&lt;br&gt;2019—2021 年，&lt;br&gt;10 个环境，31 个性状" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
-          <mxGeometry x="393" y="495" width="274" height="135" as="geometry" />
+          <mxGeometry x="393" y="495" width="274" height="115" as="geometry" />
         </mxCell>
         <mxCell id="pop4" value="4. 变异检测&lt;br&gt;BWA/GATK 进行 SNP 检测&lt;br&gt;vg / LUMPY 进行 SV 检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#2F75B5;strokeWidth=2;fontSize=16;fontFamily=Helvetica;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="393" y="640" width="274" height="110" as="geometry" />
@@ -55,16 +55,16 @@
         <mxCell id="arrow_ref_to_pop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="ref3" target="pop3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="540" />
-              <mxPoint x="350" y="540" />
+              <mxPoint x="360" y="553" />
+              <mxPoint x="360" y="553" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="arrow_pop_to_ana" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="pop3" target="ana2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="538" />
-              <mxPoint x="720" y="538" />
+              <mxPoint x="710" y="553" />
+              <mxPoint x="710" y="553" />
             </Array>
           </mxGeometry>
         </mxCell>
