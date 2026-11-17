@@ -34,7 +34,7 @@
         <mxCell id="cut" value="&lt;div&gt;&lt;b&gt;CUT&amp;Tag 峰&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;组蛋白修饰或靶蛋白富集区域&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F0F7F8;strokeColor=#A5C8CA;fontColor=#28565A;" parent="1" vertex="1">
           <mxGeometry x="596" y="548" width="256" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="step2" value="&lt;div&gt;&lt;b&gt;ATAC 峰与 CUT&amp;Tag 峰取交集&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;按基因组坐标提取共同重叠区间&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F7F9FC;strokeColor=#B1C3D5;fontColor=#163951;" parent="1" vertex="1">
+        <mxCell id="step2" value="&lt;div&gt;&lt;b&gt;ATAC 峰与 CUT&amp;amp;Tag 峰取交集&lt;/b&gt;&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F7F9FC;strokeColor=#B1C3D5;fontColor=#163951;" parent="1" vertex="1">
           <mxGeometry x="50" y="548" width="476" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hic" value="&lt;div&gt;&lt;b&gt;Hi-C A/B 区室差异&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;差异区室的基因组坐标&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F0F7F8;strokeColor=#A5C8CA;fontColor=#28565A;" parent="1" vertex="1">
