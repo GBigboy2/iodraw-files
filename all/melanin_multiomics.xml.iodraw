@@ -22,13 +22,13 @@
         <mxCell id="positive" value="&lt;div&gt;&lt;b&gt;正相关模块基因&lt;/b&gt;&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#E7F5EE;strokeColor=#97CFB2;fontColor=#19593E;" parent="1" vertex="1">
           <mxGeometry x="50" y="354" width="224" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="negative" value="&lt;div&gt;&lt;b&gt;负相关模块基因&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;提取模块内基因&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#FEF0E9;strokeColor=#E5AF99;fontColor=#853D2A;" parent="1" vertex="1">
+        <mxCell id="negative" value="&lt;div&gt;&lt;b&gt;负相关模块基因&lt;/b&gt;&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#FEF0E9;strokeColor=#E5AF99;fontColor=#853D2A;" parent="1" vertex="1">
           <mxGeometry x="302" y="354" width="224" height="60" as="geometry" />
         </mxCell>
         <mxCell id="atac" value="&lt;div&gt;&lt;b&gt;ATAC-seq 差异峰&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;峰注释，建立基因–峰对应关系&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F0F7F8;strokeColor=#A5C8CA;fontColor=#28565A;" parent="1" vertex="1">
           <mxGeometry x="596" y="450" width="256" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="step1" value="&lt;div&gt;&lt;b&gt;模块基因与差异峰注释基因取交集&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;按基因 ID 匹配，保留相关方向和 ATAC 峰坐标&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F7F9FC;strokeColor=#B1C3D5;fontColor=#163951;" parent="1" vertex="1">
+        <mxCell id="step1" value="&lt;div&gt;&lt;b&gt;模块基因与差异峰注释基因取交集&lt;/b&gt;&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F7F9FC;strokeColor=#B1C3D5;fontColor=#163951;" parent="1" vertex="1">
           <mxGeometry x="50" y="450" width="476" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cut" value="&lt;div&gt;&lt;b&gt;CUT&amp;Tag 峰&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;组蛋白修饰或靶蛋白富集区域&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#F0F7F8;strokeColor=#A5C8CA;fontColor=#28565A;" parent="1" vertex="1">
