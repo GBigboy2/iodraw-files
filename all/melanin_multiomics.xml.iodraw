@@ -7,7 +7,7 @@
         <mxCell id="title" value="乌骨鸡胚胎胸肌黑色素沉积多组学联合分析" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;text;strokeColor=none;fillColor=none;fontSize=27;fontColor=#173D60;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="46" y="26" width="812" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rna" value="&lt;div&gt;&lt;b&gt;胸肌 RNA-seq&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;27 个个体的标准化基因表达矩阵&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#EAF2FC;strokeColor=#A6BEDC;fontColor=#17375B;" parent="1" vertex="1">
+        <mxCell id="rna" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;27 个个体的&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b&gt;胸肌 RNA-seq&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:13px;margin-top:4px;&quot;&gt;27 个个体的标准化基因表达矩阵&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#EAF2FC;strokeColor=#A6BEDC;fontColor=#17375B;" parent="1" vertex="1">
           <mxGeometry x="50" y="108" width="476" height="58" as="geometry" />
         </mxCell>
         <mxCell id="wgcna" value="&lt;div&gt;&lt;b&gt;WGCNA 构建共表达网络&lt;/b&gt;&lt;/div&gt;" style="fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;rounded=1;arcSize=16;strokeWidth=1.3;spacing=6;fontSize=17;fillColor=#EAF2FC;strokeColor=#A6BEDC;fontColor=#17375B;" parent="1" vertex="1">
